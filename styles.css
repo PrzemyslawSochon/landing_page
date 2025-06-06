@@ -109,11 +109,26 @@ button,
     font-weight: 900;
 }
 
+.quote-section {
+    padding: 128px;
+}
+
 .quote-section .quote {
     color: #1F2937;
     font-size: 36px;
     font-style: italic;
     font-weight: light;
+    margin: auto;
+    max-width: 800px;
+}
+
+.quote-section .author {
+    color: #202a38;
+    font-weight: bolder;
+    font-size: 24px;
+    margin: 8px auto;
+    max-width: 800px;
+    text-align: end;
 }
 
 footer {
