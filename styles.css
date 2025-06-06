@@ -60,6 +60,13 @@ header .top-section {
     gap: 24px;
 }
 
+button {
+    padding: 8px 32px;
+    font-weight: bold;
+    font-size: large;
+    margin: 12px 0;
+}
+
 button,
 .call-to-action-section .banner {
     background-color: #3882F6;
