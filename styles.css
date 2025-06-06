@@ -12,14 +12,48 @@ header .top-section {
 }
 
 .header-logo {
+    color: #F9FAF8;
     text-decoration: none;
-    color: white;
+    font-size: 24px;
 }
 
-.header-nav {
+.hero-section h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.top-section .header-nav,
+.hero-section h3 {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.top-section .header-nav {
     display: flex;
     list-style: none;
     margin: 0;
     padding: 0;
-    color: rgb(197,200,206);
+}
+
+button,
+.banner {
+    background-color: #3882F6;
+}
+
+.illustrations-section h2 {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote-section .quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
 }
