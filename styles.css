@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-logo {
+    text-decoration: none;
+}
+
+.header-nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
