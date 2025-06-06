@@ -39,6 +39,7 @@ header .top-section {
 button,
 .banner {
     background-color: #3882F6;
+    color: #F9FAF8; 
 }
 
 .illustrations-section h2 {
@@ -56,4 +57,8 @@ button,
     font-size: 36px;
     font-style: italic;
     font-weight: light;
+}
+
+footer {
+    color: #E5E7EB;
 }
