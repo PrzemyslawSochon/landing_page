@@ -1,10 +1,12 @@
 header {
     display: flex;
     justify-content: space-between;
+    background-color: rgb(31,41,55);
 }
 
 .header-logo {
     text-decoration: none;
+    color: white;
 }
 
 .header-nav {
@@ -12,4 +14,5 @@ header {
     list-style: none;
     margin: 0;
     padding: 0;
+    color: rgb(197,200,206);
 }
