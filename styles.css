@@ -36,6 +36,14 @@ header .top-section {
     padding: 0;
 }
 
+.call-to-action-section {
+    background-color: white;
+}
+
+.call-to-action-section button {
+    border: 2px solid white;
+}
+
 button,
 .banner {
     background-color: #3882F6;
