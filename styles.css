@@ -7,6 +7,19 @@ header, footer {
     background-color: #1F2937;
 }
 
+.illustrations-section,
+.call-to-action-section{
+    background-color: white;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.width-limiter {
+    max-width: 1080px;
+}
+
 header .top-section {
     display: flex;
     justify-content: space-between;
@@ -45,10 +58,6 @@ header .top-section {
     gap: 24px;
 }
 
-.call-to-action-section {
-    background-color: white;
-}
-
 button,
 .call-to-action-section .banner {
     background-color: #3882F6;
@@ -68,10 +77,6 @@ button,
     color: #1F2937;
     font-size: 36px;
     font-weight: 900;
-}
-
-.quote-section {
-    background-color: #E5E7EB;
 }
 
 .quote-section .quote {
