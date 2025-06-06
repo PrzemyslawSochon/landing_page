@@ -37,6 +37,7 @@ header .top-section {
 .hero-section {
     display: flex;
     justify-content: space-between;
+    padding: 90px 30px 120px 30px;
 }
 
 .hero-section h1 {
