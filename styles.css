@@ -1,7 +1,10 @@
 header {
-    display: flex;
-    justify-content: space-between;
     background-color: rgb(31,41,55);
+}
+
+header .top-section {
+    justify-content: space-between;
+    display: flex;
 }
 
 .header-logo {
