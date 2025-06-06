@@ -25,10 +25,6 @@ header .top-section {
     justify-content: space-between;
 }
 
-.hero-section button {
-    border: transparent 
-}
-
 .hero-section h1 {
     color: #F9FAF8;
     font-size: 48px;
@@ -53,15 +49,19 @@ header .top-section {
     background-color: white;
 }
 
+button,
+.call-to-action-section .banner {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 6px; 
+}
+
 .call-to-action-section button {
     border: 2px solid white;
 }
 
-button,
-.banner {
-    background-color: #3882F6;
-    color: #F9FAF8;
-    border-radius: 6px; 
+.hero-section button {
+    border: 2px solid transparent;
 }
 
 .illustrations-section h2 {
