@@ -131,6 +131,21 @@ button,
     text-align: end;
 }
 
+.banner {
+    margin: 80px;
+    padding: 32px 128px;
+    display: flex;
+    justify-content: space-between;
+}
+.banner p {
+    margin: 8px 0;
+}
+
+.banner .call {
+    font-weight: bold;
+    font-size: larger;
+}
+
 footer {
     color: #E5E7EB;
 }
