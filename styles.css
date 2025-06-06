@@ -1,5 +1,9 @@
-header {
-    background-color: rgb(31,41,55);
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header, footer {
+    background-color: #1F2937;
 }
 
 header .top-section {
