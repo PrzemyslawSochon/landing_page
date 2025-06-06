@@ -20,6 +20,11 @@ header .top-section {
     font-weight: bolder;
 }
 
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+}
+
 .hero-section h1 {
     color: #F9FAF8;
     font-size: 48px;
